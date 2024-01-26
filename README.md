@@ -9,19 +9,60 @@
 
 <br>
 
+# Introduction :
+
+created a python project using python turtle graphics to draw chhatrapti shivaji maharaj .
+
+<br>
+
 #  About  :
 **Celebrating ShivJayanti:🚩✨**
 
- On the occasion of 19th February, Shiv Jayanti, witness a visual ode to the great Maratha warrior and visionary king through a Python Turtle project. Dive into the art and history, blending tradition with technology. Jai Shivaray!!🚩 #ShivajiJayanti 
+tried to create A great Maratha warrior and a mighty king, through the Python Turtle project on the occasion of 19th February Shiva Jayanti. Dive into art and history, blending tradition with technology. Jai Shivarai!!🚩 #Shivajijayanti
 <br>
 <br>
 
-![Screenshot (121)](https://github.com/vaishnavilugade/shivaji_maharaj_using_python_turtle/assets/108423518/35b28107-0616-4e33-88b3-134f5ef4f9d0)
+# Screenshot:
+![Screenshot (121)](https://github.com/vaishnavilugade/shivaji_maharaj_using_python_turtle/assets/108423518/dec88b1e-8df1-43fa-b05f-1dcbbb2bba01)
+
+<br>
+
+# Clone
+```
+https://github.com/vaishnavilugade/shivaji_maharaj_using_python_turtle.git
+```
+
+<br>
+
+# Languages and framework used :
+• __Python :__ 
+The programming language used to write the code. Python is widely used for various applications, including graphics programming.
+
+• **Turtle Graphics Library:**
+Turtle is a built-in graphics library in Python that provides a way to create simple drawings and graphics. It's often used for educational purposes and learning programming concepts.
+
+<br>
+ 
+# steps:
+• **Install Python :** Make sure you have Python installed on your system. You can download Python from the official website
+
+• **Create a New Python File:** Open your preferred code editor (e.g., VSCode, PyCharm, IDLE) and create a new Python file.Copy and paste the Python Turtle code into your file. Modify the code as needed.
+
+• **Run project:** To run the project, make sure you have Python installed. Clone the repository and execute the Python script.
+```
+python shivaji_maharaj.py
+```
+
+<br>
 
 <h1 align="center">
 
   <strong>🌟 If you find this project helpful, please star it! 🌟</strong>
 </h1>
+
+
+
+
 
 <br>
 <div align="center">
