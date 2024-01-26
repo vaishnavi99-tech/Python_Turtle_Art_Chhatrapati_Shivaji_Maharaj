@@ -10,7 +10,7 @@
 <br>
 
 #  About  :
-**Celebrating Shivaji Jayanti:  🚩✨**
+**Celebrating ShivJayanti:🚩✨**
 
  On the occasion of 19th February, Shiv Jayanti, witness a visual ode to the great Maratha warrior and visionary king through a Python Turtle project. Dive into the art and history, blending tradition with technology. Jai Shivaray!!🚩 #ShivajiJayanti 
 <br>
