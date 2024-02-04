@@ -1,4 +1,4 @@
-# shivaji_maharaj_using_python_turtle
+# Python Turtle Art : Chhatrapati Shivaji Maharaj
 
 ![Last Commit](https://img.shields.io/github/last-commit/vaishnavilugade/shivaji_maharaj_using_python_turtle) 
 ![Stars](https://img.shields.io/github/stars/vaishnavilugade/shivaji_maharaj_using_python_turtle)
